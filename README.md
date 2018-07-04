@@ -1,0 +1,2 @@
+# L293D_module_example
+The following wiring diagram and code may be used in a 2-wheel robot to control 2 DC motors. This example turns the robot forward, backward, right then left in a loop. It is used as a base code for implementing other applications (e.g. line-follower, sumobot, obstacle-avoidance robot, or RC-robot, etc..) or as a first test code for testing the functionalities of the L293D module. 
